@@ -1,0 +1,5 @@
+load:
+  - src/MySlider.js
+  - test/MySliderTest.js
+  - lib/prototype/prototype.js
+  - lib/scriptaculous/slider.js
